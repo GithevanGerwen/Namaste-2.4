@@ -36,3 +36,14 @@ nav {
 .btn {
 	color:#4d420c
 }
+.my-container {color: #4B4317;
+    border: 1.8px solid #8B452D;
+    background: #edc3ad;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Buenard', serif;
+    font-size: x-large;
+    font-weight: 400;
+
+}

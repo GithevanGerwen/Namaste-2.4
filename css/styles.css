@@ -47,3 +47,10 @@ nav {
     font-weight: 400;
 
 }
+
+.button {
+	color:#4d420c;
+	border: 1.8px solid #8B452D;
+	padding: 3px;
+}
+

@@ -36,7 +36,8 @@ nav {
 .btn {
 	color:#4d420c
 }
-.my-container {color: #4B4317;
+.my-container {
+	color: #4B4317;
     border: 1.8px solid #8B452D;
     background: #edc3ad;
     text-align: center;
@@ -51,6 +52,31 @@ nav {
 .button {
 	color:#4d420c;
 	border: 1.8px solid #8B452D;
-	padding: 3px;
+	padding: 4px;
 }
+
+.button2 {
+	border: 1.8px solid #EDC3AD;
+	padding: 5px;
+	color:#EDC3AD;
+	text-align: center;
+}
+
+.form-signin {
+	 border: 1.8px solid #4D420D;
+    background: #954026;
+    text-align: center;
+    font-family: 'Buenard', serif;
+    font-size: x-large;
+    font-weight: 400;
+	margin: 20px;
+	color:#EDC3AD;
+	padding: 15px;
+}
+
+.form-control {
+	border: 1.8px solid #EDC3AD;
+}
+
+
 

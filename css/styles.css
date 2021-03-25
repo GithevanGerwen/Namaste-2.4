@@ -6,6 +6,8 @@ brown: #964026
 skin: #edc3ad
 yellow: #f8a353
 white:#f9e0da */
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
 body{
 	font-family: 'Lora', serif;
 }
@@ -36,17 +38,20 @@ nav {
 .btn {
 	color:#4d420c
 }
-.my-container {
+.my-container2 {
 	color: #4B4317;
     border: 1.8px solid #8B452D;
     background: #edc3ad;
     text-align: center;
-    margin-left: 0px;
-    margin-right: 0px;
     font-family: 'Buenard', serif;
     font-size: x-large;
     font-weight: 400;
+	padding: 10px;
+}
 
+.my-container {
+	 background: #edc3ad;
+	 margin: 0px;
 }
 
 .button {
@@ -63,15 +68,16 @@ nav {
 }
 
 .form-signin {
-	 border: 1.8px solid #4D420D;
-    background: #954026;
+    background: #8B452D;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
     text-align: center;
     font-family: 'Buenard', serif;
     font-size: x-large;
     font-weight: 400;
-	margin: 20px;
 	color:#EDC3AD;
-	padding: 15px;
+	padding: 40px;
 }
 
 .form-control {

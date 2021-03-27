@@ -52,6 +52,8 @@ nav {
 .my-container {
 	 background: #edc3ad;
 	 margin: 0px;
+	
+
 }
 
 .button {
@@ -78,6 +80,7 @@ nav {
     font-weight: 400;
 	color:#EDC3AD;
 	padding: 40px;
+	border:3px solid #4d420c;
 }
 
 .form-control {
@@ -88,30 +91,59 @@ nav {
 	border:1.8px solid #4d420c;
 }
 
-.col-3 {
+.col-sm-4 {
 	background: #8B452D;
-	margin: 20px;
-    text-align: center;
+	border: 3px solid #4d420c;
+	margin-top: 20px;
+	margin-bottom: 20px;
     font-family: 'Buenard', serif;
-    font-size: x-large;
     font-weight: 400;
+	text-align: center;
 	color:#EDC3AD;
 	padding: 40px;
 }
 
-.col-8 { 
+.col-sm-8 { 
 	margin-top: 20px;
 	text-align: center;
 	
 }
 
 .col-sm {
-	border:1.8px solid #4d420c;
-	margin: 10px;
+	border:3px dashed #4d420c;
+	margin-bottom: 20px;
+	padding: 5px;
 }
 
 .blog {
 	text-align: center;
 }
 
+.form-row {
+	border-bottom:1.8px solid #4d420c;;
+}
 
+#padding {
+	padding: 10px;
+}
+
+.row {
+	margin: 20px;
+}
+
+.col-sm-3 {
+	align-content: center;
+}
+
+
+.align-items-center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border:3px dashed #4d420c;
+}
+
+.text-center {
+	margin-top: 10px;
+	margin-left: 5px;
+}

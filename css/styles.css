@@ -132,11 +132,12 @@ nav {
 }
 
 .col-sm-3 {
-	align-content: center;
+	border: 1.8px solid #4d420c;
 }
 
 
-.align-items-center{
+.img-fluid {
+  height: 210px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -145,5 +146,6 @@ nav {
 
 .text-center {
 	margin-top: 10px;
-	margin-left: 5px;
+	
+	
 }

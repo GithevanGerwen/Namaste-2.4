@@ -29,6 +29,12 @@ nav {
 	color:#4d420c
 	
 }
+
+.navbar {
+	border: 1.8px solid #8B452D;
+}
+
+
 .nav-link:hover {
 	color: #964026
 }
@@ -55,8 +61,6 @@ nav {
 .my-container {
 	 background: #edc3ad;
 	 margin: 0px;
-	
-
 }
 
 .button {
@@ -77,9 +81,9 @@ nav {
 	margin-bottom: 20px;
 	margin-left: 20px;
 	margin-right: 20px;
+	margin-top: 20px;
     text-align: center;
     font-family: 'Buenard', serif;
-    font-size: x-large;
     font-weight: 400;
 	color:#EDC3AD;
 	padding: 40px;
@@ -139,11 +143,12 @@ nav {
 }
 
 .img-fluid {
-  height: 210px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-	margin-top: 10px;
+    height: 210px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    border-radius: 100px;
 }
 
 .text-center {
@@ -153,4 +158,23 @@ nav {
 
 .review {
 	border: 3px dashed #4d420c;
+}
+
+.testimonials {
+	border: 1.8px solid #4d420c;
+	margin-left: 35px;
+	margin-right: 35px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.socialmedia {
+	background: #edc3ad; 
+	margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Buenard', serif;
+    font-weight: 400;
+	color: #964026;
+	padding: 10px;
+	border: 1.8px solid #8B452D;
 }

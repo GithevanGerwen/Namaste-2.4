@@ -6,8 +6,26 @@ brown: #964026
 skin: #edc3ad
 yellow: #f8a353
 white:#f9e0da */
+body {
+  background-image: linear-gradient(180deg, #eee, #fff 100px, #fff);
+}
+
+.container {
+  max-width: 960px;
+	background:#edc3ad;
+	
+	
+}
+
+
+.pricing-header {
+  max-width: 700px;
+	
+}
+
 body{
-	font-family: 'Lora', serif;
+	 font-family: 'Buenard', serif;
+	
 }
 
 .logo {background: #edc3ad;	
@@ -45,12 +63,28 @@ nav {
     font-family: 'Buenard', serif;
     font-size: x-large;
     font-weight: 400;
+	
+	
 
+}
+
+.my-container {color: #4B4317;
+    border: 1.8px solid #8B452D;
+    background: #edc3ad;
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: 'Buenard', serif;
+    font-size: x-large;
+    font-weight: 400;
 }
 
 .button {
-	color:#4d420c;
+	color:#edc3ad;
 	border: 1.8px solid #8B452D;
 	padding: 3px;
+	background:#8B452D;
 }
+
+
 

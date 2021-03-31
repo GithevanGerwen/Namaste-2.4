@@ -190,3 +190,12 @@ nav {
     width: 700px;
     height: auto;
 }
+.footer {
+ 
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:#964026 ;
+  color: white;
+  text-align: center;
+}

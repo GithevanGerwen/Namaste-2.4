@@ -9,7 +9,7 @@ white:#f9e0da */
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 
 body{
-	font-family: 'Lora', serif;
+	font-family: 'Buenard', serif;
 	background: #edc3ad;
 }
 
@@ -53,7 +53,7 @@ nav {
     background: #edc3ad;
     text-align: center;
     font-family: 'Buenard', serif;
-    font-size: x-large;
+    font-size: s-small;
     font-weight: 400;
 	padding: 10px;
 }
@@ -193,6 +193,30 @@ nav {
     background: #edc3ad;
 	border: 1.8px solid #8B452D;
 }
+<<<<<<< HEAD
 
 
 
+=======
+.my-container3 {color: #4B4317;
+    border: 1.8px solid #8B452D;
+    background: #edc3ad;
+    font-family: 'Buenard', serif;
+    font-size: s-small;
+    font-weight: 400;
+	
+}
+.resize {
+    width: 700px;
+    height: auto;
+}
+.footer {
+ 
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:#964026 ;
+  color: white;
+  text-align: center;
+}
+>>>>>>> f69d86ce5f09cea445696c261d5012e67285b2bf

@@ -134,9 +134,6 @@ nav {
 	padding: 10px;
 }
 
-.row {
-	
-}
 
 .col-sm-3 {
 	border: 1.8px solid #4d420c;
@@ -220,11 +217,13 @@ nav {
 
 .d-block {
 	border: 1.8px solid #8B452D;
-	margin-bottom: 20px;
 }
 
 .col {
 	border:3px dashed #4d420c;
-	margin: 10px;
+	margin-top: 20px;
 }
 
+.btn.btn-secondary.btn {
+	margin-top: 20px;
+}

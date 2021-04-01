@@ -6,11 +6,16 @@ brown: #964026
 skin: #edc3ad
 yellow: #f8a353
 white:#f9e0da */
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
 body{
-	font-family: 'Lora', serif;
+	font-family: 'Buenard', serif;
+	background: #edc3ad;
 }
 
-.logo {background: #edc3ad;	
+.logo {
+	background: #edc3ad;
+	margin-top: 10px;
 }
 .logo img {
 	width: 200px
@@ -24,6 +29,12 @@ nav {
 	color:#4d420c
 	
 }
+
+.navbar {
+	border: 1.8px solid #8B452D;
+}
+
+
 .nav-link:hover {
 	color: #964026
 }
@@ -36,14 +47,176 @@ nav {
 .btn {
 	color:#4d420c
 }
-.my-container {color: #4B4317;
+.my-container2 {
+	color: #4B4317;
     border: 1.8px solid #8B452D;
     background: #edc3ad;
     text-align: center;
-    margin-left: 0px;
-    margin-right: 0px;
     font-family: 'Buenard', serif;
-    font-size: x-large;
+    font-size: s-small;
     font-weight: 400;
-
+	padding: 10px;
 }
+
+.my-container {
+	 background: #edc3ad;
+	 margin: 0px;
+}
+
+.button {
+	color:#4d420c;
+	border: 1.8px solid #8B452D;
+	padding: 4px;
+}
+
+.button2 {
+	border: 1.8px solid #EDC3AD;
+	padding: 5px;
+	color:#EDC3AD;
+	text-align: center;
+}
+
+.form-signin {
+    background: #8B452D;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+    text-align: center;
+    font-family: 'Buenard', serif;
+    font-weight: 400;
+	color:#EDC3AD;
+	padding: 40px;
+	border:3px solid #4d420c;
+}
+
+.form-control {
+	border: 1.8px solid #EDC3AD;
+}
+
+.my-container3 {
+	border:1.8px solid #4d420c;
+}
+
+.col-sm-4 {
+	background: #8B452D;
+	border: 3px solid #4d420c;
+	margin-top: 20px;
+	margin-bottom: 20px;
+    font-family: 'Buenard', serif;
+    font-weight: 400;
+	text-align: center;
+	color:#EDC3AD;
+	padding: 40px;
+}
+
+.col-sm-8 { 
+	margin-top: 20px;
+	text-align: center;
+	
+}
+
+.col-sm {
+	border:3px dashed #4d420c;
+	margin-bottom: 20px;
+	padding: 5px;
+}
+
+.blog {
+	text-align: center;
+}
+
+.form-row {
+	border-bottom:1.8px solid #4d420c;;
+}
+
+#padding {
+	padding: 10px;
+}
+
+.row {
+	margin: 20px;
+}
+
+.col-sm-3 {
+	border: 1.8px solid #4d420c;
+}
+
+.img-fluid {
+    height: 210px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    border-radius: 100px;
+}
+
+.text-center {
+	margin-top: 10px;
+	
+}
+
+.review {
+	border: 3px dashed #4d420c;
+}
+
+.testimonials {
+	border: 1.8px solid #4d420c;
+	margin-left: 35px;
+	margin-right: 35px;
+	text-align: center;
+	padding: 10px;
+}
+
+.testimonials h2{
+	font-size: 20px;
+}
+
+.socialmedia {
+	background: #8B452D;
+	margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Buenard', serif;
+    font-weight: 400;
+	color: #edc3ad;
+	padding: 10px;
+	border: 1.8px solid #4d420c;
+	border-top: 3px solid #4d420c;
+}
+
+.card-body {
+	background: #f9e0da;
+	border: 3px solid #8B452D;
+}
+
+.btn-primary {
+    background: #edc3ad;
+	border: 1.8px solid #8B452D;
+}
+<<<<<<< HEAD
+
+
+
+=======
+.my-container3 {color: #4B4317;
+    border: 1.8px solid #8B452D;
+    background: #edc3ad;
+    font-family: 'Buenard', serif;
+    font-size: s-small;
+    font-weight: 400;
+	
+}
+.resize {
+    width: 700px;
+    height: auto;
+}
+.footer {
+ 
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:#964026 ;
+  color: white;
+  text-align: center;
+}
+>>>>>>> f69d86ce5f09cea445696c261d5012e67285b2bf

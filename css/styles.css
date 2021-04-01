@@ -207,19 +207,38 @@ HEAD
 	margin-left: 35px;
 	margin-right: 35px;
 	text-align: center;
+	padding: 10px;
+}
+
+.testimonials h2{
 	font-size: 20px;
 }
 
 .socialmedia {
-	background: #edc3ad; 
+	background: #8B452D;
 	margin-bottom: 10px;
     text-align: center;
     font-family: 'Buenard', serif;
     font-weight: 400;
-	color: #964026;
+	color: #edc3ad;
 	padding: 10px;
+	border: 1.8px solid #4d420c;
+	border-top: 3px solid #4d420c;
+}
+
+.card-body {
+	background: #f9e0da;
+	border: 3px solid #8B452D;
+}
+
+.btn-primary {
+    background: #edc3ad;
 	border: 1.8px solid #8B452D;
 }
+
+
+
+
 .my-container3 {color: #4B4317;
     border: 1.8px solid #8B452D;
     background: #edc3ad;
@@ -242,6 +261,7 @@ HEAD
   text-align: center;
 }
 
+
 .logo {background: #edc3ad;
 	margin-top: 10px;
 }
@@ -249,3 +269,5 @@ HEAD
 }
 .logo {
 width: 200px}
+
+

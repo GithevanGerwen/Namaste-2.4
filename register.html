@@ -18,7 +18,7 @@
 	<title>Namaste site - register page</title>
   </head>
 	
-<body>
+<body class="my-container">
 		<header>
 				  <!--logo star here-->
   <div class="container-fluid logo">
@@ -59,8 +59,93 @@
   </div>
 </nav>
       <!-- navigation end here--> 
-		<h1>Register page</h1>
-	</header>
+</header>
+  
+    <h1 class="form-signin">Register page</h1>
+	  
+<div class="row">
+  <div>
+<h2 class="my-container2">Register form&nbsp;</h2>
+    <p class="my-container2">Namaste would love for you to register and join the Namaste community. At this moment our memberships are only available for Dutch customers. However in the future we hope to expand our brand to an international brand, with worldwide membership and shipping! </p>
+  </div>
+
+<div class="form-signin" id="margin">
+	<div class="align-content-center">
+    <h4 class="mb-3">&nbsp;Personal date</h4>
+      <form class="needs-validation" novalidate>
+        <div class="row">
+          <div class="col-md-6 mb-3">
+            <label for="firstName">First name</label>
+            <input type="text" class="form-control" id="firstName" placeholder="" value="" required>
+            <div class="invalid-feedback">
+              Valid first name is required.
+            </div>
+          </div>
+          <div class="col-md-6 mb-3">
+            <label for="lastName">Last name</label>
+            <input type="text" class="form-control" id="lastName" placeholder="" value="" required>
+            <div class="invalid-feedback">
+              Valid last name is required.
+            </div>
+          </div>
+        </div>
+<div class="mb-3">
+        <label for="email">Email <span class="text-muted">(Optional)</span></label>
+          <input type="email" class="form-control" id="email" placeholder="you@example.com">
+          <div class="invalid-feedback">
+            Please enter a valid email address for shipping updates. 
+          </div>
+        </div>
+
+        <div class="mb-3">
+          <label for="address">Password</label>
+          <input type="text" class="form-control" id="password" placeholder="Min 8 - Max 12 signs" required>
+        </div>
+<div class="row">
+        <div class="col-md-5 mb-3">
+            <label for="country">Country</label>
+            <select class="custom-select d-block w-100" id="country" required>
+              <option value="">Choose...</option>
+              <option>Nederland</option>
+            </select>
+            <div class="invalid-feedback">
+              Please select a valid country.
+            </div>
+        </div>
+          <div class="col-md-4 mb-3">
+            <label for="state">Province&nbsp;</label>
+            <select class="custom-select d-block w-100" id="state" required>
+              <option value="">Choose...</option>
+              <option>Drenthe</option>
+				<option>Flevoland</option>
+				<option>Friesland</option>
+				<option>Gelderland</option>
+				<option>Groningen</option>
+				<option>Limburg</option>
+				<option>Noord-Brabant</option>
+				<option>Noord-Holland</option>
+				<option>Overijssel</option>
+				<option>Utrecht</option>
+				<option>Zeeland</option>
+				<option>Zuid-Holland</option>
+            </select>
+            <div class="invalid-feedback">
+              Please provide a valid state.
+            </div>
+        </div>
+</div>
+
+
+        <button class="nav-item">
+      <a href="signin.html" class="nav-link" id="color">
+		  Continue to sign in</a></button>
+      </form>
+    </div>
+</div>	
+</div>
+	
+	
+
 		<!-- footer starts here -->
 <!-- =================================================================================================================================================================================== -->
 <!-- ===================================================================================================================================================================================-->
@@ -95,10 +180,11 @@
          <img alt="sorry" src="https://content.codecademy.com/projects/make-a-website/lesson-4/instagram.svg" width="50" height="50">
       </a>
     </p>
+	  
   </div>
 </div>
 </div>
-
+	
 </footer>
 <!-- =================================================================================================================================================================================== -->
 <!-- =================================================================================================================================================================================== -->
@@ -107,5 +193,7 @@
 	<!-- Popper included into bootstrap js -->
 	<script src="js/jquery-3.6.0.slim.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
+	  
 </body>
+		
 </html>

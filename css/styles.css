@@ -6,47 +6,29 @@ brown: #964026
 skin: #edc3ad
 yellow: #f8a353
 white:#f9e0da */
-HEAD
-body {
-  background-image: linear-gradient(180deg, #eee, #fff 100px, #fff);
-}
-
-.container {
-  max-width: 960px;
-	background:#edc3ad;
-	
-	
-}
-
-
-.pricing-header {
-  max-width: 700px;
-	
-}
-
-body{
-	 font-family: 'Buenard', serif;
-}
-
-* {margin: 0; padding: 0; border: 0; font-size: 100%; }
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
 
 body{
 	font-family: 'Buenard', serif;
 	background: #edc3ad;
+}
 
-	}
-
-
-
+.logo {
+	background: #edc3ad;
+	margin-top: 10px;
+}
+.logo img {
+	width: 200px
 		
-
+}
 nav {
 	background:#f9e0da
 		
 }
-
+.nav-link {
+	color:#4d420c
 	
-
+}
 
 .navbar {
 	border: 1.8px solid #8B452D;
@@ -73,43 +55,19 @@ nav {
     font-family: 'Buenard', serif;
     font-size: s-small;
     font-weight: 400;
-HEAD
-	
-	
-
 	padding: 10px;
 }
-
 
 .my-container {
 	 background: #edc3ad;
 	 margin: 0px;
 }
 
-.my-container {color: #4B4317;
-    border: 1.8px solid #8B452D;
-    background: #edc3ad;
-    text-align: center;
-    margin-left: 0px;
-    margin-right: 0px;
-    font-family: 'Buenard', serif;
-    font-size: x-large;
-    font-weight: 400;
-}
-
 .button {
-	color:#edc3ad;
+	color:#4d420c;
 	border: 1.8px solid #8B452D;
-HEAD
-	padding: 3px;
-	background:#8B452D;
+	padding: 4px;
 }
-
-
-
-
-
-
 
 .button2 {
 	border: 1.8px solid #EDC3AD;
@@ -235,10 +193,11 @@ HEAD
     background: #edc3ad;
 	border: 1.8px solid #8B452D;
 }
+<<<<<<< HEAD
 
 
 
-
+=======
 .my-container3 {color: #4B4317;
     border: 1.8px solid #8B452D;
     background: #edc3ad;
@@ -260,14 +219,5 @@ HEAD
   color: white;
   text-align: center;
 }
-
-
-.logo {background: #edc3ad;
-	margin-top: 10px;
-}
-.nav-link {color:#4d420c
-}
-.logo {
-width: 200px}
-
+>>>>>>> f69d86ce5f09cea445696c261d5012e67285b2bf
 

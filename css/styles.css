@@ -135,7 +135,7 @@ nav {
 }
 
 .row {
-	margin: 20px;
+	
 }
 
 .col-sm-3 {
@@ -170,6 +170,10 @@ nav {
 
 .testimonials h2{
 	font-size: 20px;
+}
+
+#margin {
+	margin: 20px;
 }
 
 .socialmedia {
@@ -217,5 +221,10 @@ nav {
 .d-block {
 	border: 1.8px solid #8B452D;
 	margin-bottom: 20px;
+}
+
+.col {
+	border:3px dashed #4d420c;
+	margin: 10px;
 }
 

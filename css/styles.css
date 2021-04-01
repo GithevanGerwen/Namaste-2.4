@@ -227,3 +227,17 @@ nav {
 .btn.btn-secondary.btn {
 	margin-top: 20px;
 }
+
+#margin {
+	align-content: center;
+ 	margin: auto;
+	margin-bottom: 20px;
+}
+
+#color {
+	border: 1.8px solid #4d420c;
+	background: #EDC3AD;
+}
+
+
+

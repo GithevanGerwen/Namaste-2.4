@@ -174,7 +174,6 @@ nav {
 
 .socialmedia {
 	background: #8B452D;
-	margin-bottom: 10px;
     text-align: center;
     font-family: 'Buenard', serif;
     font-weight: 400;
@@ -193,11 +192,7 @@ nav {
     background: #edc3ad;
 	border: 1.8px solid #8B452D;
 }
-<<<<<<< HEAD
 
-
-
-=======
 .my-container3 {color: #4B4317;
     border: 1.8px solid #8B452D;
     background: #edc3ad;
@@ -219,5 +214,4 @@ nav {
   color: white;
   text-align: center;
 }
->>>>>>> f69d86ce5f09cea445696c261d5012e67285b2bf
 

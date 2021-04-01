@@ -55,6 +55,7 @@ nav {
     font-family: 'Buenard', serif;
     font-weight: 400;
 	padding: 10px;
+	
 }
 
 .my-container {
@@ -77,10 +78,7 @@ nav {
 
 .form-signin {
     background: #8B452D;
-	margin-bottom: 20px;
-	margin-left: 20px;
-	margin-right: 20px;
-	margin-top: 20px;
+	margin: 20px;
     text-align: center;
     font-family: 'Buenard', serif;
     font-weight: 400;
@@ -126,11 +124,12 @@ nav {
 }
 
 .form-row {
-	border-bottom:1.8px solid #4d420c;;
+	border-bottom:1.8px solid #4d420c;
 }
 
 #padding {
 	padding: 10px;
+	border-bottom:1.8px solid #4d420c;
 }
 
 
@@ -158,8 +157,7 @@ nav {
 
 .testimonials {
 	border: 1.8px solid #4d420c;
-	margin-left: 35px;
-	margin-right: 35px;
+	margin: 20px;
 	text-align: center;
 	padding: 10px;
 }
@@ -238,7 +236,6 @@ nav {
 	background: #EDC3AD;
 }
 
-<<<<<<< Updated upstream
 .jumbotron {
   background-image: url("../images/calltoaction.png");
   background-size: cover;
@@ -249,18 +246,10 @@ nav {
 	margin-left: 60px;
 	font-size: 50px
 	
-    
-}
-=======
-
 .btn.btn-light {
     background-color: #F9E0DA;
     border: 1.8px solid #8B452D;
 	margin: 10px;
 }
-.card-deck .card .card-footer {
-    background-color: #F9E0DA;
-	border: 3px solid #8B452D;
-}
 
->>>>>>> Stashed changes
+

@@ -53,7 +53,6 @@ nav {
     background: #edc3ad;
     text-align: center;
     font-family: 'Buenard', serif;
-    font-size: s-small;
     font-weight: 400;
 	padding: 10px;
 }
@@ -194,11 +193,11 @@ nav {
 	border: 1.8px solid #8B452D;
 }
 
-.my-container3 {color: #4B4317;
+.my-container3 {
+	color: #4B4317;
     border: 1.8px solid #8B452D;
     background: #edc3ad;
     font-family: 'Buenard', serif;
-    font-size: s-small;
     font-weight: 400;
 	
 }
@@ -239,6 +238,7 @@ nav {
 	background: #EDC3AD;
 }
 
+<<<<<<< Updated upstream
 .jumbotron {
   background-image: url("../images/calltoaction.png");
   background-size: cover;
@@ -251,3 +251,16 @@ nav {
 	
     
 }
+=======
+
+.btn.btn-light {
+    background-color: #F9E0DA;
+    border: 1.8px solid #8B452D;
+	margin: 10px;
+}
+.card-deck .card .card-footer {
+    background-color: #F9E0DA;
+	border: 3px solid #8B452D;
+}
+
+>>>>>>> Stashed changes

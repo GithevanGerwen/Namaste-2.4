@@ -242,6 +242,7 @@ nav {
 .jumbotron {
   background-image: url("../images/calltoaction.png");
   background-size: cover;
+  width: 1000px
 }
 .btn {
 	margin-top: 190px;

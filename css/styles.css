@@ -239,5 +239,14 @@ nav {
 	background: #EDC3AD;
 }
 
-
-
+.jumbotron {
+  background-image: url("../images/calltoaction.png");
+  background-size: cover;
+}
+.btn {
+	margin-top: 220px;
+	margin-left: 60px;
+	font-size: 50px
+	
+    
+}

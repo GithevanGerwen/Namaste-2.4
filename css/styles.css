@@ -245,18 +245,21 @@ nav {
 .btn {
 	margin-top: 30px;
 	margin-left: 60px;
+<<<<<<< HEAD
+	font-size: 50px;
+	background-color: #F9E0DA	
+=======
 	font-size: 30px;
 	background-color: #F9E0DA
 	
+>>>>>>> 6868fe2338ebdd920f11cd6cbbf1eb0e045ba59b
 }
 	
 .btn.btn-light {
     background-color: #F9E0DA;
     border: 1.8px solid #8B452D;
 	margin: 10px;
+	align-content: center;
 }
 
-.display-4 {
-	font-family: 'Buenard', serif; 
-	color:  #4d420c
-}
+

@@ -239,6 +239,7 @@ nav {
 .card {
 	background-color: #F9E0DA;
 	border: 3px solid #8B452D;
+	margin-bottom: 20px;
 }
 
 .btn {
@@ -257,3 +258,9 @@ nav {
 }
 
 
+.card-deck .card {
+	margin: 20px;
+	margin-bottom: 40px;
+	margin-left: 20px;
+	margin-right: 20px;
+}

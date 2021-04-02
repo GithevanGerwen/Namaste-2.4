@@ -246,17 +246,14 @@ nav {
 	margin-top: 30px;
 	margin-left: 60px;
 	font-size: 50px;
-	background-color: #F9E0DA
-	
+	background-color: #F9E0DA	
 }
 	
 .btn.btn-light {
     background-color: #F9E0DA;
     border: 1.8px solid #8B452D;
 	margin: 10px;
+	align-content: center;
 }
 
-.display-4 {
-	font-family: 'Buenard', serif; 
-	color:  #4d420c
-}
+

@@ -245,7 +245,9 @@ nav {
 .btn {
 	margin-top: 30px;
 	margin-left: 60px;
-	font-size: 50px
+	font-size: 50px;
+	background-color: #F9E0DA
+	
 }
 	
 .btn.btn-light {

@@ -239,12 +239,14 @@ nav {
 .jumbotron {
   background-image: url("../images/calltoaction.png");
   background-size: cover;
-  width: 1000px
+  padding-top: 20%;
+  padding-botton:20%
 }
 .btn {
-	margin-top: 190px;
+	margin-top: 120px;
 	margin-left: 60px;
 	font-size: 50px
+}
 	
 .btn.btn-light {
     background-color: #F9E0DA;

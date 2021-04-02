@@ -26,8 +26,8 @@ nav {
 		
 }
 .nav-link {
-	color:#4d420c
-	
+	color:#4d420c;
+	font-size: 25px;
 }
 
 .navbar {
@@ -36,13 +36,14 @@ nav {
 
 
 .nav-link:hover {
-	color: #964026
+	color: #964026;	
 }
 .navbar-toggler-icon {
 	background-image: url("../images/navigation.jpg")
 }
 .navbar-brand {
-	color:#4d420c
+	color:#4d420c;
+	font-size: 25px;
 }
 .btn {
 	color:#4d420c
@@ -67,6 +68,7 @@ nav {
 	color:#4d420c;
 	border: 1.8px solid #8B452D;
 	padding: 4px;
+	font-size: 25px;
 }
 
 .button2 {

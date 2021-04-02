@@ -237,13 +237,13 @@ nav {
 }
 
 .jumbotron {
-  background-image: url("../images/call.png");
-  background-size: cover;
-  padding-top: 20%;
+ background:#edc3ad ;
+ background-size: cover;
+  padding-top: 0;
   padding-botton:20%
 }
 .btn {
-	margin-top: 120px;
+	margin-top: 30px;
 	margin-left: 60px;
 	font-size: 50px
 }
@@ -254,4 +254,7 @@ nav {
 	margin: 10px;
 }
 
-
+.display-4 {
+	font-family: 'Buenard', serif; 
+	color:  #4d420c
+}

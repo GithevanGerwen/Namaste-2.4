@@ -241,14 +241,8 @@ nav {
 .btn {
 	margin-top: 30px;
 	margin-left: 60px;
-<<<<<<< HEAD
 	font-size: 50px;
-	background-color: #F9E0DA	
-=======
-	font-size: 30px;
-	background-color: #F9E0DA
-	
->>>>>>> 6868fe2338ebdd920f11cd6cbbf1eb0e045ba59b
+	background-color: #F9E0DA;		
 }
 	
 .btn.btn-light {

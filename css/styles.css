@@ -114,9 +114,10 @@ nav {
 }
 
 .col-sm {
-	border:3px dashed #4d420c;
+	border:3px solid #4d420c;
 	margin-bottom: 20px;
 	padding: 5px;
+	align-content: center;
 }
 
 .blog {
@@ -183,7 +184,6 @@ nav {
 
 .card-body {
 	background: #f9e0da;
-	border: 3px solid #8B452D;
 }
 
 .btn-primary {
@@ -216,10 +216,7 @@ nav {
 	border: 1.8px solid #8B452D;
 }
 
-.col {
-	border:3px dashed #4d420c;
-	margin-top: 20px;
-}
+
 
 .btn.btn-secondary.btn {
 	margin-top: 20px;
@@ -236,12 +233,11 @@ nav {
 	background: #EDC3AD;
 }
 
-.jumbotron {
- background:#edc3ad ;
- background-size: cover;
-  padding-top: 0;
-  padding-botton:20%
+.card {
+	background-color: #F9E0DA;
+	border: 3px solid #8B452D;
 }
+
 .btn {
 	margin-top: 30px;
 	margin-left: 60px;
@@ -260,6 +256,7 @@ nav {
     border: 1.8px solid #8B452D;
 	margin: 10px;
 	align-content: center;
+	font-size: 30px;
 }
 
 
